@@ -1,0 +1,35 @@
+ [
+    {
+    "id": 1,
+    "name": "Basic",
+    "price": 25.99,
+    "features": [
+    "Cardio equipment",
+    "Free weights",
+    "Lockers"
+    ]
+    },
+    {
+    "id": 2,
+    "name": "Premium",
+    "price": 49.99,
+    "features": [
+    "All Basic features",
+    "Group classes",
+    "Sauna and steam room",
+    "Towel service"
+    ]
+    },
+    {
+    "id": 3,
+    "name": "VIP",
+    "price": 99.99,
+    "features": [
+    "All Premium features",
+    "Personal training",
+    "Complimentary snacks and drinks",
+    "Private locker"
+    ]
+    }
+    ]
+    
